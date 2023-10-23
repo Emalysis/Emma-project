@@ -1,0 +1,21 @@
+,CustomerID,First_Name,Last_Name,Phone_Number,Address,Paying Customer,Do_Not_Contact,Not_Useful_Column
+0,1001,Frodo,Baggins,1235455421,"123 Shire Lane, Shire",Yes,No,True
+1,1002,Abed,Nadir,1236439775,93 West Main Street,No,Yes,False
+2,1003,Walter,White,7066950392,298 Drugs Driveway,No,,True
+3,1004,Dwight,Schrute,1235432345,"980 Paper Avenue, Pennsylvania, 18503",Yes,Yes,True
+4,1005,Jon,Snow,8766783469,123 Dragons Road,Yes,No,True
+5,1006,Ron,Swanson,3047622467,768 City Parkway,Yes,Yes,True
+6,1007,Jeff,  Winger,,1209 South Street,No,No,False
+7,1008,Sherlock,Holmes,8766783469,98 Clue Drive,No,No,False
+8,1009,Gandalf,,,123 Middle Earth,Yes,,False
+9,1010,Peter,Parker,1235455421,"25th Main Street, New York",Yes,No,True
+10,1011,Samwise,Gamgee,,"612 Shire Lane, Shire",Yes,No,True
+11,1012,Harry,...Potter,,2394 Hogwarts Avenue,Yes,,True
+12,1013,Don,Draper,1235432345,2039 Main Street,Yes,No,False
+13,1014,Leslie,Knope,8766783469,343 City Parkway,Yes,No,False
+14,1015,Toby,Flenderson,3047622467,214 HR Avenue,No,No,False
+15,1016,Ron,Weasley,1235455421,2395 Hogwarts Avenue,No,No,False
+16,1017,Michael ,Scott,1236439775,"121 Paper Avenue, Pennsylvania",Yes,No,False
+17,1018,Clark,Kent,,3498 Super Lane,Yes,,True
+18,1019,Creed,Braton,,N/a,N/a,Yes,True
+19,1020,Anakin,Skywalker,8766783469,"910 Tatooine Road, Tatooine",Yes,No,True
